@@ -1,0 +1,3 @@
+/Users/Lenie/git/Csharp-Tutorial/obj/Debug/netcoreapp2.0/console-teleprompter.csproj.CoreCompileInputs.cache
+/Users/Lenie/git/Csharp-Tutorial/obj/Debug/netcoreapp2.0/console-teleprompter.AssemblyInfoInputs.cache
+/Users/Lenie/git/Csharp-Tutorial/obj/Debug/netcoreapp2.0/console-teleprompter.AssemblyInfo.cs
