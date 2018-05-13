@@ -11,7 +11,7 @@ namespace TeleprompterConsole
             var lines = ReadFrom("sampleQuotes.txt");
             foreach (var line in lines)
             {
-                Console.Writeline(line)
+                Console.WriteLine(line);
             }
         }
         //comment?
